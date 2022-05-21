@@ -3,7 +3,7 @@
   "attributes": {
     "level": 0,
     "id": 1,
-    "total_sales": 100,
+    "total_sales": 200,
     "target_sales": 400
   },
   "children": [
@@ -12,7 +12,7 @@
       "attributes": {
         "level": 1,
         "id": 1,
-        "total_sales": 30,
+        "total_sales": 20,
         "target_sales": 100
       },
       "children": [
@@ -22,7 +22,7 @@
             "level": 2,
             "id": 1,
             "total_sales": 10,
-            "target_sales": 30
+            "target_sales": 50
           }
         },
         {
@@ -30,8 +30,8 @@
           "attributes": {
             "level": 2,
             "id": 2,
-            "total_sales": 50,
-            "target_sales": 70
+            "total_sales": 10,
+            "target_sales": 50
           }
         }
       ]
@@ -41,7 +41,7 @@
       "attributes": {
         "level": 1,
         "id": 2,
-        "total_sales": 120,
+        "total_sales": 150,
         "target_sales": 200
       },
       "children": [
@@ -50,8 +50,8 @@
           "attributes": {
             "level": 2,
             "id": 3,
-            "total_sales": 60,
-            "target_sales": 120
+            "total_sales": 85,
+            "target_sales": 100
           }
         },
         {
@@ -59,8 +59,8 @@
           "attributes": {
             "level": 2,
             "id": 4,
-            "total_sales": 50,
-            "target_sales": 80
+            "total_sales": 65,
+            "target_sales": 100
           }
         }
       ]
@@ -70,7 +70,7 @@
       "attributes": {
         "level": 1,
         "id": 3,
-        "total_sales": 70,
+        "total_sales": 30,
         "target_sales": 100
       },
       "children": [
@@ -80,7 +80,7 @@
             "level": 2,
             "id": 5,
             "total_sales": 10,
-            "target_sales": 40
+            "target_sales": 50
           }
         },
         {
@@ -88,8 +88,8 @@
           "attributes": {
             "level": 2,
             "id": 6,
-            "total_sales": 50,
-            "target_sales": 60
+            "total_sales": 20,
+            "target_sales": 50
           }
         }
       ]

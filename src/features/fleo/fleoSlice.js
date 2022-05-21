@@ -7,8 +7,8 @@ const initialState = {
     attributes: {
       level: 0,
       id: 1,
-      total_sales: 100,
-      target_sales: 200,
+      total_sales: 200,
+      target_sales: 400,
     },
   },
 };
