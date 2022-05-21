@@ -1,0 +1,12 @@
+.card-category{
+    width: fit-content;
+}
+
+.sales-card-alert{
+    height: 1.8rem;
+    text-align: center;
+    font-size: 0.9rem;
+    line-height: 1.8rem;
+    border-radius: 5px;
+}
+
